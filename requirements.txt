@@ -7,3 +7,4 @@ sentence-transformers
 setuptools
 pandas
 python-dotenv
+protobuf==4.25.3
